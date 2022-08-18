@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @DeLeei
-- 👀 I’m interested in writting code in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on my brain
-- 📫 How to reach me - @DeLeei#3347
+# **👋 Hello, World! I’m DeLeei**
+- :house: I live in **[Saint-Petersburg](https://en.wikipedia.org/wiki/Saint_Petersburg)**
+- :snake: My favorite language **[Python](https://en.wikipedia.org/wiki/Python_(programming_language))**
+- :speech_balloon: Contact me: 
+  - Discord: **DeLeei#3347**
+  - VK: **[vk.com/deleei](https://vk.com/deleei)**
