@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DeLeei
+- 👀 I’m interested in writting code in Python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on my brain
+- 📫 How to reach me - @DeLeei#3347
